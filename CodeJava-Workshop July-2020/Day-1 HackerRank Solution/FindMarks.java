@@ -8,9 +8,9 @@ public class Solution {
         
         Scanner sc = new Scanner(System.in);
         
-        long aPlusb = sc.nextInt();
-        long bPlusc = sc.nextInt();
-        long aPlusbPlusc = sc.nextInt();
+        long aPlusb = sc.nextLong();
+        long bPlusc = sc.nextLong();
+        long aPlusbPlusc = sc.nextLong();
         
         long sub1_marks = aPlusbPlusc - bPlusc ;
         long sub3_marks = aPlusbPlusc - aPlusb;
