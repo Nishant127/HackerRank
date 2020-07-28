@@ -42,7 +42,6 @@ public class Solution {
                 System.out.println(sum);
             else if(ct==0)
                 System.out.println("NOT WON ANY MAN OF THE MATCH AWARD");            
-            
             testCases--;
         }
     }
