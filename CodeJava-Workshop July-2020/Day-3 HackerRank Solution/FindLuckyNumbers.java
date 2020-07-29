@@ -16,6 +16,7 @@ public class Solution {
             //calculating length of input string
             int length = numbers.length();
             
+                //contains() method is used to check wheather given string contains following input substring
                 if(numbers.contains("44") || numbers.contains("77"))
                 {
                     //check whether string contains leading or trailing zeros
