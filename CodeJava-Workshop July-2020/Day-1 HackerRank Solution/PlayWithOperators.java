@@ -18,7 +18,7 @@ public class Solution {
         long and = no1 & no2;
         Boolean invert = !val;
 
-        //typecasting into its respective :(long) datatype
+        //typecasting into its respective : datatype
         System.out.println((long)(no1+no2));
         System.out.println((long)(no1-no2));
         System.out.println((long)(no1*no2));
