@@ -27,5 +27,6 @@ public class Solution {
         System.out.println(or);
         System.out.println(xor);
         System.out.println(invert);
+        
     }
 }
