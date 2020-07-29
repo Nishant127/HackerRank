@@ -13,6 +13,7 @@ public class Solution {
         {
             String numbers = sc.next();
             
+            //calculating length of input string
             int length = numbers.length();
             
                 if(numbers.contains("44") || numbers.contains("77"))
@@ -23,11 +24,10 @@ public class Solution {
                     else
                         System.out.println("YES");       
                 }
-            else
-            {
-                System.out.println("NO");
-            }
-            
+                else
+                {
+                    System.out.println("NO");
+                }
             testCases--;
         }
     }
