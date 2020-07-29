@@ -21,7 +21,6 @@ public class Solution {
         long sub3_marks = aPlusbPlusc - aPlusb;
         long sub2_marks = aPlusbPlusc - (sub1_marks + sub3_marks);
   
-        System.out.println(sub1_marks+" "+sub2_marks+" "+sub3_marks);
-        
+        System.out.println(sub1_marks+" "+sub2_marks+" "+sub3_marks);     
     }
 }
