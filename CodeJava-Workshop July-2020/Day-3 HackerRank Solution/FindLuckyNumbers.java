@@ -5,6 +5,7 @@ public class Solution {
 
     public static void main(String[] args) {
        
+        //Scanner class to get input from user
         Scanner sc = new Scanner(System.in);
         
         int testCases = sc.nextInt();
